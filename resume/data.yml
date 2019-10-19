@@ -87,8 +87,18 @@ projects:
   description: ✉️ SWMailgun provides simple alternative APIs when you need to send an email with your iOS app using Mailgun
   url: https://github.com/thejohnlima/SWMailgun
 
+- name: ObservableKit
+  platform: iOS
+  description: 👀 ObservableKit is the easiest way to observe values in Swift
+  url: https://github.com/thejohnlima/ObservableKit
+
+- name: BaseNetworkKit
+  platform: iOS
+  description: 🌎 BaseNetworkKit is the easiest way to create your network layer in Swift
+  url: https://github.com/thejohnlima/BaseNetworkKit
+
 contact:
-  email: john.doe@email.com
+  email: thejohnlima@icloud.com
   phone: +55 11 943064948
   street: 321 Prestes Maia Avenue
   city: Sao Paulo
