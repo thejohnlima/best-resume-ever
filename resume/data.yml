@@ -2,91 +2,99 @@
 name:
   first: John
   middle:
-  last: Doe
-about: Hi, my name is John Doe. I"m just about the most boring type of person you could
-       possibly imagine. I like collecting leaves from the tree in my back yard and documenting
-       each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
-position: Software Developer
+  last: Lima
+about: I'm passionate about technology, science, developing things that improve people's lives and make the world a better place. 
+       I've been working with mobile development for iOS platform since 2014 with experience on all steps of iOS development, 
+       from the concept ofthe ideas until releasing the app on the store and following the results with analytics, 
+       tests and crashreports. 
+position: iOS Developer
 
 birth:
-  year: 1990
-  location: New York
+  year: 1989
+  location: Brazil
 
 experience:
-- company: Company A
-  position: Developer
-  timeperiod: since January 2016
-  description: Programming and watching cute cat videos.
-  website: https://example.com
+- company: PagSeguro UOL
+  position: iOS Developer
+  timeperiod: since July 2018
+  description: Working with native applications using Swift
+  website: https://pagseguro.uol.com.br
 
-- company: Company B
-  position: Frontend Developer
-  timeperiod: January 2015 - December 2015
-  description: Fulfillment of extremely important tasks.
+- company: BRQ
+  position: iOS Developer
+  timeperiod: April 2017 - June 2018
+  description: Working with native applications using Swift and Objective-C
+  website: http://www.brq.com
 
-- company: Company C
-  position: Trainee
-  timeperiod: March 2014 - December 2014
-  description: Making coffee and baking cookies.
+- company: Magna Sistemas
+  position: iOS Developer
+  timeperiod: February 2016 - April 2017
+  description: Working with native applications using Swift
+  website: http://www.magnasistemas.com.br
 
 education:
-- degree: Master of Arts
-  timeperiod: March 2012 - December 2013
-  description: Major in Hacking and Computer Penetration, University A, New York, USA.
-  website: https://example.com
+- degree: Analysis and Systems Development
+  timeperiod: February 2014 - June 2018
+  description: Learning algorithms, software engineer, databases, software development in FMU, Sao Paulo, Brazil
+  website: https://portal.fmu.br
 
-- degree: Bachelor of Science
-  timeperiod: March 2009 - December 2011
-  description: Major in Engineering, University B, Los Angeles, USA.
+- degree: iOS Developer
+  timeperiod: March 2013 - December 2014
+  description: Learning a lot of concepts about iOS development in Impacta, Sao Paulo, Brazil
+  website: https://impacta.com.br
 
 # skill level goes 0 to 100
 skills:
-- name: HTML5
-  level: 99
-- name: CSS3
-  level: 95
-- name: JavaScript
-  level: 97
-- name: Node.js
-  level: 93
-- name: Angular 2
-  level: 60
-- name: TypeScript
+- name: Xcode
+  level: 98
+- name: Swift
+  level: 90
+- name: Obj-C
+  level: 75
+- name: git
+  level: 85
+- name: MVVM
   level: 80
-- name: ES.Next
-  level: 70
-- name: Docker
-  level: 99
-knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
-  (English and Klingon).
+- name: CI
+  level: 75
+- name: cocoapods
+  level: 85
+- name: SPM
+  level: 80
+- name: Tests
+  level: 95
+
+knowledge: Also proficient in web services integration, external frameworks, fastlane, grew up bilingual (Portuguese and English)
 
 projects:
-- name: best-resume-ever
-  platform: Vue
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-  url: https://github.com/salomonelli/best-resume-ever
+- name: BaseTracking
+  platform: iOS
+  description: 📊 The easiest way to setup your analytics
+  url: https://github.com/thejohnlima/BaseTracking
 
-hobbies:
-- name: Video Games
-  iconClass: fa fa-gamepad
-  url: https://example.com
+- name: LMLoading
+  platform: iOS
+  description: ⏳ The best and easy way to show an loading in your view
+  url: https://github.com/thejohnlima/LMLoading
 
-- name: Drawing
-  iconClass: fa fa-pencil
-  url: https://example.com
+- name: PickImageAlert
+  platform: iOS
+  description: 📸 Photos or camera access using the system alert controller
+  url: https://github.com/thejohnlima/PickImageAlert
 
-contributions:
-- name: best-resume-ever
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
-  url: https://github.com/salomonelli/best-resume-ever
+- name: SWMailgun
+  platform: iOS
+  description: ✉️ SWMailgun provides simple alternative APIs when you need to send an email with your iOS app using Mailgun
+  url: https://github.com/thejohnlima/SWMailgun
 
 contact:
   email: john.doe@email.com
-  phone: 0123 456789
-  street: 1234 Broadway
-  city: New York
-  website: johndoe.com
-  github: johnyD
+  phone: +55 11 943064948
+  street: 321 Prestes Maia Avenue
+  city: Sao Paulo
+  website: https://linkedin.com/in/thejohnlima
+  github: thejohnlima
+  
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el
 lang: en
 `
