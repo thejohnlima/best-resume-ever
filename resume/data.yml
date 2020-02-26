@@ -32,6 +32,12 @@ experience:
   description: Working with native applications using Swift
   website: http://www.magnasistemas.com.br
 
+- company: Urban Summer
+  position: iOS Developer
+  timeperiod: February 2015 - February 2016
+  description: Working with native and hybrid applications using Titanium, Objective-C and Swift
+  website: https://linkedin.com/company/urban-summer-digital-creative/about/
+
 education:
 - degree: Analysis and Systems Development
   timeperiod: February 2014 - June 2018
@@ -54,7 +60,9 @@ skills:
 - name: git
   level: 85
 - name: MVVM
-  level: 80
+  level: 90
+- name: MVC
+  level: 90
 - name: CI
   level: 75
 - name: cocoapods
@@ -82,11 +90,6 @@ projects:
   description: 📸 Photos or camera access using the system alert controller
   url: https://github.com/thejohnlima/PickImageAlert
 
-- name: SWMailgun
-  platform: iOS
-  description: ✉️ SWMailgun provides simple alternative APIs when you need to send an email with your iOS app using Mailgun
-  url: https://github.com/thejohnlima/SWMailgun
-
 - name: ObservableKit
   platform: iOS
   description: 👀 ObservableKit is the easiest way to observe values in Swift
@@ -96,6 +99,16 @@ projects:
   platform: iOS
   description: 🌎 BaseNetworkKit is the easiest way to create your network layer in Swift
   url: https://github.com/thejohnlima/BaseNetworkKit
+
+- name: MoonKit
+  platform: iOS
+  description: 🌗 MoonKit Is a short framework to get information about the moon
+  url: https://github.com/thejohnlima/MoonKit
+
+- name: SWMailgun
+  platform: iOS
+  description: ✉️ SWMailgun provides simple alternative APIs when you need to send an email with your iOS app using Mailgun
+  url: https://github.com/thejohnlima/SWMailgun
 
 contact:
   email: thejohnlima@icloud.com
