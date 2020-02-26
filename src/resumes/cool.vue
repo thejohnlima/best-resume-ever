@@ -198,8 +198,8 @@ export default Vue.component(name, getVueOptions(name));
 @banner-height: 80px;
 @picture-size: 120px;
 @picture-offset: 35px;
-@base-padding: 30px;
-@left-column-width: 240px;
+@base-padding: 24px;
+@left-column-width: 254px;
 
 a {
   color: inherit;
