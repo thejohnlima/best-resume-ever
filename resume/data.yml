@@ -52,7 +52,7 @@ education:
 # skill level goes 0 to 100
 skills:
 - name: Xcode
-  level: 98
+  level: 95
 - name: Swift
   level: 90
 - name: Obj-C
@@ -71,6 +71,12 @@ skills:
   level: 80
 - name: Tests
   level: 95
+- name: Auto Layout
+  level: 80
+- name: Agile Methodologies
+  level: 75
+- name: Framework Building
+  level: 80
 
 knowledge: Also proficient in web services integration, external frameworks, fastlane, grew up bilingual (Portuguese and English)
 
@@ -109,6 +115,11 @@ projects:
   platform: iOS
   description: ✉️ SWMailgun provides simple alternative APIs when you need to send an email with your iOS app using Mailgun
   url: https://github.com/thejohnlima/SWMailgun
+
+- name: LMStorage
+  platform: iOS
+  description: 💾 LMStorage is a framework which reduces the complexity of managing a persistent layer.
+  url: https://github.com/thejohnlima/LMStorage
 
 contact:
   email: thejohnlima@icloud.com

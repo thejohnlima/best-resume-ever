@@ -57,7 +57,7 @@
     </div>
     <h3>{{ lang.skills }}</h3>
     <div class="skills">
-      <div class="skill-block" v-for="skill in person.skills" :key="skill.name">
+      <div class="skill-block" v-for="skill in person.skills.slice(0, 11)" :key="skill.name">
         <span class="skill">{{skill.name}}</span>
         <div class="skill-bar">
           <div :style="'width: '+skill.level+'%'" class="level"> </div>
@@ -121,7 +121,7 @@ export default Vue.component(name, getVueOptions(name));
     border:1px solid black;
     text-transform:uppercase;
     padding:10px 20px;
-    margin-top:80px;
+    margin-top:40px;
     margin-bottom:5px;
     font-family:'Open Sans', sans-serif;
     font-size:35px;
@@ -133,22 +133,7 @@ export default Vue.component(name, getVueOptions(name));
     font-family:'Open Sans', sans-serif;
     font-size:smaller;
     color:#757575;
-    margin-bottom:40px;
-  }
-  .image {
-    width:100px;
-    height:100px;
-    margin-top:50px;
-    margin-bottom:50px;
-    .img {
-      width:100%;
-      height:100%;
-      border-radius:50%;
-      background-image:url('../../resume/id.jpg');
-      background-repeat:none;
-      background-position:center;
-      background-size:cover;
-    }
+    margin-bottom:10px;
   }
   .contact {
     width:100%;
