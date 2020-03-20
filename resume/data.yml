@@ -16,7 +16,7 @@ birth:
 experience:
 - company: PagSeguro UOL
   position: iOS Developer
-  timeperiod: since July 2018
+  timeperiod: Since July 2018
   description: Working with native applications using Swift
   website: https://pagseguro.uol.com.br
 
@@ -39,7 +39,7 @@ experience:
   website: https://linkedin.com/company/urban-summer-digital-creative/about/
 
 education:
-- degree: Analysis and Systems Development
+- degree: System Analysis and Development
   timeperiod: February 2014 - June 2018
   description: Learning algorithms, software engineer, databases, software development in FMU, Sao Paulo, Brazil
   website: https://portal.fmu.br
@@ -125,7 +125,7 @@ contact:
   email: thejohnlima@icloud.com
   phone: +55 11 943064948
   street: 321 Prestes Maia Avenue
-  city: Sao Paulo
+  city: Sao Paulo, Brazil
   website: https://linkedin.com/in/thejohnlima
   github: thejohnlima
   
