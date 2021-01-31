@@ -14,6 +14,18 @@ birth:
   location: Brazil
 
 experience:
+- company: FreeCast Inc
+  position: Freelancer iOS Developer
+  timeperiod: Since January 2021
+  description: Working with Swift for iOS and tvOS applications
+  website: https://freecast.com
+
+- company: Stormbreaker Studios
+  position: Freelancer iOS Developer
+  timeperiod: January 2020 - December 2020
+  description: Working in iOS applications using Swift
+  website: https://www.linkedin.com/company/stormbreaker-studios/
+
 - company: PagSeguro UOL
   position: iOS Developer
   timeperiod: Since July 2018
@@ -29,14 +41,8 @@ experience:
 - company: Magna Sistemas
   position: iOS Developer
   timeperiod: February 2016 - April 2017
-  description: Working with native applications using Swift
+  description: Working with native applications using Swift...
   website: http://www.magnasistemas.com.br
-
-- company: Urban Summer
-  position: iOS Developer
-  timeperiod: February 2015 - February 2016
-  description: Working with native and hybrid applications using Titanium, Objective-C and Swift
-  website: https://linkedin.com/company/urban-summer-digital-creative/about/
 
 education:
 - degree: System Analysis and Development
@@ -58,25 +64,25 @@ skills:
 - name: Obj-C
   level: 75
 - name: git
-  level: 85
+  level: 90
 - name: MVVM
-  level: 90
+  level: 95
 - name: MVC
-  level: 90
+  level: 95
 - name: CI
-  level: 75
-- name: cocoapods
-  level: 85
-- name: SPM
   level: 80
+- name: cocoapods
+  level: 95
+- name: SPM
+  level: 95
 - name: Tests
   level: 95
 - name: Auto Layout
-  level: 80
+  level: 90
 - name: Agile Methodologies
-  level: 75
-- name: Framework Building
   level: 80
+- name: Framework Building
+  level: 90
 
 knowledge: Also proficient in web services integration, external frameworks, fastlane, grew up bilingual (Portuguese and English)
 
@@ -123,9 +129,8 @@ projects:
 
 contact:
   email: thejohnlima@icloud.com
-  phone: +55 11 943064948
-  street: 321 Prestes Maia Avenue
-  city: Sao Paulo, Brazil
+  phone: +1 (646) 932-0850
+  street: Sao Paulo, Brazil
   website: https://linkedin.com/in/thejohnlima
   github: thejohnlima
   
