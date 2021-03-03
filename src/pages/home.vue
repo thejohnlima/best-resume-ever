@@ -15,10 +15,34 @@
       </router-link>
     </div>
     <div class="preview">
+      <router-link v-bind:to="'/resume/material-dark-projects'">
+        <div class="preview-wrapper">
+          <img src="../assets/preview/resume-material-dark-projects.png" />
+          <span>material-dark-projects</span>
+        </div>
+      </router-link>
+    </div>
+    <div class="preview">
       <router-link v-bind:to="'/resume/left-right'">
         <div class="preview-wrapper">
           <img src="../assets/preview/resume-left-right.png" />
           <span>left-right</span>
+        </div>
+      </router-link>
+    </div>
+    <div class="preview">
+      <router-link v-bind:to="'/resume/left-right-projects'">
+        <div class="preview-wrapper">
+          <img src="../assets/preview/resume-left-right-projects.png" />
+          <span>left-right-projects</span>
+        </div>
+      </router-link>
+    </div>
+    <div class="preview">
+      <router-link v-bind:to="'/resume/left-right-rtl'">
+        <div class="preview-wrapper">
+          <img src="../assets/preview/resume-left-right-rtl.png" />
+          <span>left-right-rtl</span>
         </div>
       </router-link>
     </div>
@@ -31,6 +55,22 @@
       </router-link>
     </div>
     <div class="preview">
+      <router-link v-bind:to="'/resume/oblique-projects'">
+        <div class="preview-wrapper">
+          <img src="../assets/preview/resume-oblique-projects.png" />
+          <span>oblique-projects</span>
+        </div>
+      </router-link>
+    </div>
+    <div class="preview">
+        <router-link v-bind:to="'/resume/oblique-rtl'">
+            <div class="preview-wrapper">
+                <img src="../assets/preview/resume-oblique-rtl.png" />
+                <span>oblique-rtl</span>
+            </div>
+        </router-link>
+    </div>
+    <div class="preview">
       <router-link v-bind:to="'/resume/side-bar'">
         <div class="preview-wrapper">
           <img src="../assets/preview/resume-side-bar.png" />
@@ -39,10 +79,10 @@
       </router-link>
     </div>
     <div class="preview">
-      <router-link v-bind:to="'/resume/purple'">
+      <router-link v-bind:to="'/resume/side-bar-projects'">
         <div class="preview-wrapper">
-          <img src="../assets/preview/resume-purple.png" />
-          <span>purple</span>
+          <img src="../assets/preview/resume-side-bar-projects.png" />
+          <span>side-bar-projects</span>
         </div>
       </router-link>
     </div>
@@ -55,10 +95,10 @@
       </router-link>
     </div>
     <div class="preview">
-      <router-link v-bind:to="'/resume/left-right-rtl'">
+      <router-link v-bind:to="'/resume/purple'">
         <div class="preview-wrapper">
-          <img src="../assets/preview/resume-left-right-rtl.png" />
-          <span>left-right-rtl</span>
+          <img src="../assets/preview/resume-purple.png" />
+          <span>purple</span>
         </div>
       </router-link>
     </div>
@@ -75,6 +115,30 @@
         <div class="preview-wrapper">
           <img src="../assets/preview/resume-cool.png" />
           <span>cool</span>
+        </div>
+      </router-link>
+    </div>
+    <div class="preview">
+      <router-link v-bind:to="'/resume/cool-rtl'">
+        <div class="preview-wrapper">
+          <img src="../assets/preview/resume-cool-rtl.png" />
+          <span>cool-rtl</span>
+        </div>
+      </router-link>
+    </div>
+    <div class="preview">
+      <router-link v-bind:to="'/resume/cool-rtl2'">
+        <div class="preview-wrapper">
+          <img src="../assets/preview/resume-cool-rtl2.png" />
+          <span>cool-rtl2</span>
+        </div>
+      </router-link>
+    </div>
+    <div class="preview">
+      <router-link v-bind:to="'/resume/green'">
+        <div class="preview-wrapper">
+          <img src="../assets/preview/resume-green.png" />
+          <span>green</span>
         </div>
       </router-link>
     </div>
