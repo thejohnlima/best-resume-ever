@@ -14,11 +14,11 @@ birth:
   location: Brazil
 
 experience:
-# - company: FreeCast Inc
-#   position: Freelancer iOS Developer
-#   timeperiod: Since January 2021
-#   description: Working with Swift for iOS and tvOS applications
-#   website: https://freecast.com
+- company: FreeCast Inc
+  position: Freelancer iOS Developer
+  timeperiod: Since January 2021
+  description: Working with Swift for iOS and tvOS applications
+  website: https://freecast.com
 
 - company: PagSeguro UOL
   position: iOS Developer
@@ -44,11 +44,11 @@ experience:
   description: Working with native applications using Swift...
   website: http://www.magnasistemas.com.br
 
-- company: Urban Summer
-  position: iOS Developer
-  timeperiod: March 2015 - February 2016
-  description: Working with native and hybrid mobile Apps...
-  website: https://www.linkedin.com/company/urban-summer-digital-creative/about/
+# - company: Urban Summer
+#   position: iOS Developer
+#   timeperiod: March 2015 - February 2016
+#   description: Working with native and hybrid mobile Apps...
+#   website: https://www.linkedin.com/company/urban-summer-digital-creative/about/
 
 education:
 - degree: System Analysis and Development
