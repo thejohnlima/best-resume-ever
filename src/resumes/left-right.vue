@@ -28,10 +28,10 @@
           <td><a :href="contactLinks.email">{{person.contact.email}}</a></td>
           <td><i class="fa fa-envelope" aria-hidden="true"></i></td>
         </tr>
-        <tr>
+        <!-- <tr>
           <td><a :href="contactLinks.phone">{{person.contact.phone}}</a></td>
           <td><i class="fa fa-phone" aria-hidden="true"></i></td>
-        </tr>
+        </tr> -->
         <!-- <tr>
           <td>{{person.contact.street}} <br> {{person.contact.city}}</td>
           <td><i class="fa fa-home" aria-hidden="true"></i></td>
