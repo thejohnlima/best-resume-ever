@@ -66,7 +66,9 @@ skills:
 - name: Xcode
   level: 95
 - name: Swift
-  level: 90
+  level: 95
+- name: SwiftUI
+  level: 40
 - name: Obj-C
   level: 75
 - name: git
@@ -81,10 +83,8 @@ skills:
   level: 95
 - name: SPM
   level: 95
-- name: Tests
-  level: 95
 - name: Auto Layout
-  level: 90
+  level: 95
 - name: Agile Methodologies
   level: 80
 - name: Framework Building
@@ -136,7 +136,7 @@ projects:
 contact:
   email: thejohnlima@icloud.com
   phone:
-  street: New York, United States
+  street: Brazil
   website: https://linkedin.com/in/thejohnlima
   github: thejohnlima
   

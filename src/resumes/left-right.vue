@@ -32,10 +32,10 @@
           <td><a :href="contactLinks.phone">{{person.contact.phone}}</a></td>
           <td><i class="fa fa-phone" aria-hidden="true"></i></td>
         </tr> -->
-        <!-- <tr>
+        <tr>
           <td>{{person.contact.street}} <br> {{person.contact.city}}</td>
           <td><i class="fa fa-home" aria-hidden="true"></i></td>
-        </tr> -->
+        </tr>
         <tr v-if="person.contact.website">
           <td><a :href="person.contact.website">{{person.contact.website}}</a></td>
           <td><i class="fa fa-globe" aria-hidden="true"></i></td>
