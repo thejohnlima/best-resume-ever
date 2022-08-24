@@ -1,0 +1,63 @@
+/* #*/ export const PERSON = `
+name:
+  first: Thais
+  middle:
+  last: Costa
+about: About 
+position: Team Member
+
+birth:
+  year: 1989
+  location: Brazil
+
+experience:
+- company: QUALITY APOIO ADM E COM EQUIP DE INFOR
+  position: Call Center Operator
+  timeperiod: August 2018 - Mar 2020
+  description: Answer calls courteously and quickly, accurately transfers callers to appropriate departments, collaborate with other operators to ensure all calls are answered and handled within established client service metrics...
+  website: https://hospitaldeolhos.net
+
+- company: SALADA PAULISTANA MERCADAO LTDA
+  position: Server
+  timeperiod: June 2011 - May 2015
+  description: Prepare restaurant tables with special attention to cleanliness, attend to guests upon entrance, present restaurant menus and help customers select food/beverages, transmit orders to kitchen and bar by recording guest's choices, serve food and beverages by picking up and delivering orders to guests from bar...
+  website: https://hospitaldeolhos.net
+
+education:
+- degree: Nutrition
+  timeperiod: February 2014 - June 2017
+  description: Learning sciences (chemistry, biology, microbiology, anatomy), nutrition along the lifespan, nutritional counseling, organic herbs and potions, body systems and functions, nutritional supplements... FMU (Faculdades Metropolitanas Unidas), Sao Paulo, Brazil.
+  website: https://portal.fmu.br
+
+# skill level goes 0 to 100
+skills:
+- name: Customer Service
+  level: 90
+- name: Verbal Communication
+  level: 95
+- name: Work Quickly
+  level: 95
+- name: Organized
+  level: 85
+- name: Team Work
+  level: 90
+- name: Attention to Details
+  level: 90
+
+knowledge: Self-motivated Server with 5 years' successful track record of bringing recurring business by providing exceptional food service to restaurant patrons. Demonstrated strong knowledge of food and beverage products and great insight into suggesting complementing menu items. Also known for having great organizational skills, and ability to working with all types of customers.
+
+projects:
+- name: BaseTracking
+  platform: iOS
+  description: 📊 The easiest way to setup your analytics
+  url: https://github.com/thejohnlima/BaseTracking
+
+contact:
+  email: thethaiscosta@gmail.com
+  phone:
+  street: Brazil
+  website: https://linkedin.com/in/tthais
+  
+# en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el
+lang: en
+`
