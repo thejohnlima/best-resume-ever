@@ -15,40 +15,40 @@ birth:
 
 experience:
 - company: FreeCast Inc
-  position: Freelancer iOS Developer
+  position: tvOS | iOS Developer
   timeperiod: Since January 2021
-  description: Working with Swift for iOS and tvOS applications
+  description: Working with Swift for iOS and tvOS apps
   website: https://freecast.com
 
 - company: PagSeguro UOL
-  position: iOS Developer
+  position: iOS Engineer
   timeperiod: July 2018 - March 2021
-  description: Working with native applications using Swift
+  description: Working with native apps using Swift
   website: https://pagseguro.uol.com.br
 
 - company: Stormbreaker Studios
-  position: Freelancer iOS Developer
+  position: iOS Developer
   timeperiod: January 2020 - December 2020
-  description: Working in iOS applications using Swift
+  description: Working in iOS apps using Swift
   website: https://www.linkedin.com/company/stormbreaker-studios/
 
 - company: BRQ
   position: iOS Developer
   timeperiod: April 2017 - June 2018
-  description: Working with native applications using Swift and Objective-C
+  description: Working with native apps using Swift and Objective-C
   website: http://www.brq.com
 
 - company: Magna Sistemas
   position: iOS Developer
   timeperiod: February 2016 - April 2017
-  description: Working with native applications using Swift...
+  description: Working with native apps using Swift
   website: http://www.magnasistemas.com.br
 
-# - company: Urban Summer
-#   position: iOS Developer
-#   timeperiod: March 2015 - February 2016
-#   description: Working with native and hybrid mobile Apps...
-#   website: https://www.linkedin.com/company/urban-summer-digital-creative/about/
+- company: Urban Summer
+  position: iOS Developer
+  timeperiod: March 2015 - February 2016
+  description: Working with native and hybrid apps
+  website: https://www.linkedin.com/company/urban-summer-digital-creative/about/
 
 education:
 - degree: System Analysis and Development
@@ -68,9 +68,9 @@ skills:
 - name: Swift
   level: 95
 - name: SwiftUI
-  level: 40
+  level: 70
 - name: Obj-C
-  level: 75
+  level: 60
 - name: git
   level: 90
 - name: MVVM
@@ -78,7 +78,7 @@ skills:
 - name: MVC
   level: 95
 - name: CI
-  level: 80
+  level: 90
 - name: cocoapods
   level: 95
 - name: SPM

@@ -46,11 +46,11 @@ skills:
 
 knowledge: Self-motivated Server with 5 years' successful track record of bringing recurring business by providing exceptional food service to restaurant patrons. Demonstrated strong knowledge of food and beverage products and great insight into suggesting complementing menu items. Also known for having great organizational skills, and ability to working with all types of customers.
 
-projects:
-- name: BaseTracking
-  platform: iOS
-  description: 📊 The easiest way to setup your analytics
-  url: https://github.com/thejohnlima/BaseTracking
+# projects:
+# - name: BaseTracking
+#   platform: iOS
+#   description: 📊 The easiest way to setup your analytics
+#   url: https://github.com/thejohnlima/BaseTracking
 
 contact:
   email: thethaiscosta@gmail.com
