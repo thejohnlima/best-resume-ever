@@ -7,7 +7,7 @@ about: I'm passionate about technology, science, developing things that improve 
        I've been working with mobile development for iOS platform since 2014 with experience on all steps of iOS development, 
        from the concept ofthe ideas until releasing the app on the store and following the results with analytics, 
        tests and crashreports. 
-position: iOS Developer
+position: iOS Engineer
 
 birth:
   year: 1989
@@ -15,8 +15,8 @@ birth:
 
 experience:
 - company: FreeCast Inc
-  position: tvOS | iOS Developer
-  timeperiod: Since January 2021
+  position: iOS | tvOS Engineer
+  timeperiod: January 2021 - December 2023
   description: Working with Swift for iOS and tvOS apps
   website: https://freecast.com
 
@@ -68,14 +68,14 @@ skills:
 - name: Swift
   level: 95
 - name: SwiftUI
-  level: 70
-- name: Obj-C
-  level: 60
+  level: 90
+- name: UIKit
+  level: 95
 - name: git
   level: 90
 - name: MVVM
   level: 95
-- name: MVC
+- name: Unit Test
   level: 95
 - name: CI
   level: 90
@@ -83,14 +83,14 @@ skills:
   level: 95
 - name: SPM
   level: 95
-- name: Auto Layout
-  level: 95
+- name: Code Review
+  level: 98
 - name: Agile Methodologies
   level: 80
 - name: Framework Building
   level: 90
 
-knowledge: Also proficient in web services integration, external frameworks, fastlane, grew up bilingual (Portuguese and English)
+knowledge: Also proficient in stream video, web services integration, frameworks development, fastlane, grew up bilingual (Portuguese and English)
 
 projects:
 - name: BaseTracking
