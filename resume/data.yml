@@ -7,7 +7,7 @@ about: I'm passionate about technology, science, developing things that improve 
        I've been working with mobile development for iOS platform since 2014 with experience on all steps of iOS development, 
        from the concept ofthe ideas until releasing the app on the store and following the results with analytics, 
        tests and crashreports. 
-position: iOS Engineer
+position: iOS Developer
 
 birth:
   year: 1989
@@ -15,13 +15,13 @@ birth:
 
 experience:
 - company: FreeCast Inc
-  position: iOS | tvOS Engineer
-  timeperiod: January 2021 - April 2024
+  position: iOS | tvOS Developer
+  timeperiod: Since January 2021
   description: Working with Swift for iOS and tvOS apps
   website: https://freecast.com
 
-- company: PagSeguro UOL
-  position: iOS Engineer
+- company: PagBank PagSeguro
+  position: iOS Developer
   timeperiod: July 2018 - March 2021
   description: Working with native apps using Swift
   website: https://pagseguro.uol.com.br
