@@ -7,7 +7,7 @@ about: I'm passionate about technology, science, developing things that improve 
        I've been working with mobile development for iOS platform since 2014 with experience on all steps of iOS development, 
        from the concept ofthe ideas until releasing the app on the store and following the results with analytics, 
        tests and crashreports. 
-position: iOS Developer
+position: iOS Engineer
 
 birth:
   year: 1989
@@ -15,40 +15,40 @@ birth:
 
 experience:
 - company: FreeCast Inc
-  position: iOS | tvOS Developer
+  position: iOS | tvOS Engineer
   timeperiod: Since January 2021
-  description: Working with Swift for iOS and tvOS apps
+  description: Contributed to the development of FreeCast’s cross-platform streaming apps.
   website: https://freecast.com
 
 - company: PagBank PagSeguro
-  position: iOS Developer
-  timeperiod: July 2018 - March 2021
-  description: Working with native apps using Swift
+  position: iOS Engineer
+  timeperiod: July 2018 - January 2021
+  description: Contributed to the development of PagSeguro’s native iOS applications.
   website: https://pagseguro.uol.com.br
 
 - company: Stormbreaker Studios
   position: iOS Developer
   timeperiod: January 2020 - December 2020
-  description: Working in iOS apps using Swift
+  description: Worked on a variety of iOS applications across different domains.
   website: https://www.linkedin.com/company/stormbreaker-studios/
 
 - company: BRQ
   position: iOS Developer
   timeperiod: April 2017 - June 2018
-  description: Working with native apps using Swift and Objective-C
+  description: Worked on the development and maintenance of native iOS applications using Swift and Objective-C.
   website: http://www.brq.com
 
 - company: Magna Sistemas
   position: iOS Developer
   timeperiod: February 2016 - April 2017
-  description: Working with native apps using Swift
+  description: Working with native applications using Swift.
   website: http://www.magnasistemas.com.br
 
-- company: Urban Summer
-  position: iOS Developer
-  timeperiod: March 2015 - February 2016
-  description: Working with native and hybrid apps
-  website: https://www.linkedin.com/company/urban-summer-digital-creative/about/
+# - company: Urban Summer
+#   position: iOS Developer
+#   timeperiod: March 2015 - February 2016
+#   description: Working with native and hybrid apps
+#   website: https://www.linkedin.com/company/urban-summer-digital-creative/about/
 
 education:
 - degree: System Analysis and Development
