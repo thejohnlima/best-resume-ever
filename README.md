@@ -61,6 +61,8 @@
 <br>
 <br>
 
+
+
 ## Prerequisite
 
 1. It is required to have Node.js with version 8.5.0 or higher. To see what version of Node.js is installed on your machine type the following command in the terminal:
@@ -81,9 +83,9 @@ git clone https://github.com/salomonelli/best-resume-ever.git
 
 2. Go to the cloned directory (e.g. `cd best-resume-ever`).
 
-3. Run `npm install`.
+3. Run `npm install`. This may take a few seconds.
 
-4. Customize your resume in the `resume/` directory: edit your data `data.yml` and replace the default profile-picture `id.jpg` with your picture. Rename your picture as `id.jpg` and copy it in the `resume/` directory.
+4. Customize your resume in the `resume/` directory: edit your data `data.yml` and replace the default profile-picture `id.jpg` with your picture. Rename your picture as `id.jpg` and copy it in the `resume/` directory. During this step, you may find it easier to navigate with Finder or File Explorer to get to the files. This will allow you to edit files with your computers default text editor. 
 
 5. Preview resumes with `npm run dev`. The command will start a server instance and listen on port 8080.  Open (http://localhost:8080/home) in your browser. The page will show some resume previews. To see the preview of your resume, with your picture and data, click on one layout that you like and the resume will be opened in the same window.
 
@@ -107,6 +109,22 @@ Please read the <a href="DEVELOPER.md">developer docs</a> on how to create or up
 Feel free to add your own templates, language supports, fix bugs or improve the docs. Any kind of help is appreciated! If you make any kind of changes to an existing template, please commit them as new templates.
 
 <br>
+
+
+## Sponsored by
+
+<p align="center">
+    <a href="https://rxdb.info/nodejs-database.html">
+        <img
+            src="https://rxdb.info/files/logo/logo_text.svg"
+            alt="Sponsored by RxDB - NodeJs Database"
+            width="300"
+         />
+         <br />
+         <br />
+         <span>The <b>NodeJs Database</b></span>
+    </a>
+</p>
 
 ## Credits
 
