@@ -57,7 +57,7 @@
     </div>
     <h3>{{ lang.skills }}</h3>
     <div class="skills">
-      <div class="skill-block" v-for="skill in person.skills.slice(0, 11)" :key="skill.name">
+      <div class="skill-block" v-for="skill in person.skills.slice(0, 20)" :key="skill.name">
         <span class="skill">{{skill.name}}</span>
         <div class="skill-bar">
           <div :style="'width: '+skill.level+'%'" class="level"> </div>
@@ -185,7 +185,7 @@ export default Vue.component(name, getVueOptions(name));
       padding-bottom:10px;
       display:inline-block;
       .skill {
-        width:100px;
+        width:148px;
         color:#616161;
         float:left;
       }
@@ -197,7 +197,7 @@ export default Vue.component(name, getVueOptions(name));
         border-radius:3px;
         margin-top:6.5px;
         position:relative;
-        width:249px;
+        width:200px;
         .level {
           background:#757575;
           height:100%;

@@ -7,6 +7,8 @@ about: I'm passionate about technology, science, developing things that improve 
        I've been working with mobile development for iOS platform since 2014 with experience on all steps of iOS development, 
        from the concept ofthe ideas until releasing the app on the store and following the results with analytics, 
        tests and crashreports. 
+       Great skill with standard Apple platforms development tools such as Xcode, Swift, Objective-C, UIKit, SwiftUI, git, 
+       cocoapods, Swift Package Manager, MVC, MVVM, MVVM-C, fastlane, CI/CD and general Web Service Integration.
 position: iOS Engineer
 
 birth:
@@ -17,52 +19,66 @@ experience:
 - company: FreeCast Inc
   position: iOS | tvOS Engineer
   timeperiod: Since January 2021
-  description: Contributed to the development of FreeCast’s cross-platform streaming apps.
+  description: Contributed to the development of FreeCast’s cross-platform streaming apps, delivering scalable and high-performance experiences for both iOS and tvOS users. Worked closely with product and backend teams to build and maintain complex features.
+              Built and maintained advanced features using SwiftUI, UIKit, and MVVM, ensuring consistency and performance across both platforms. 
+              Integrated FairPlay DRM for secure media playback, handling license acquisition and streaming key requests via backend APIs.
   website: https://freecast.com
 
 - company: PagBank PagSeguro
   position: iOS Engineer
   timeperiod: July 2018 - January 2021
-  description: Contributed to the development of PagSeguro’s native iOS applications.
+  description: Contributed to the development of PagSeguro’s native iOS applications, focusing on building robust, secure, and scalable mobile solutions for one of Brazil’s largest fintech companies.
+              Developed and maintained features using Swift, applying MVVM-C architecture for better scalability and separation of concerns. 
+              Integrated RESTful web services and managed third-party dependencies using CocoaPods and Carthage. 
+              Implemented Unit Tests and UI Tests to ensure code quality and application reliability.
   website: https://pagseguro.uol.com.br
 
 - company: Stormbreaker Studios
   position: iOS Developer
   timeperiod: January 2020 - December 2020
-  description: Worked on a variety of iOS applications across different domains.
+  description: Worked on a variety of iOS applications across different domains, focusing on delivering functional and user-friendly mobile experiences.
+              Built new features and resolved bugs using Swift, following MVC architecture and clean code principles.
+              Utilized both Storyboard/Interface Builder and programmatic UI (view code) to develop flexible, reusable components.
+              Integrated In-App Purchases, Firebase, and third-party libraries through CocoaPods.
   website: https://www.linkedin.com/company/stormbreaker-studios/
 
 - company: BRQ
   position: iOS Developer
   timeperiod: April 2017 - June 2018
-  description: Worked on the development and maintenance of native iOS applications using Swift and Objective-C.
+  description: Worked on the development and maintenance of native iOS applications using Swift and Objective-C, delivering features aligned with business requirements in the banking sector.
+              Integrated RESTful web services and third-party frameworks using CocoaPods.
+              Collaborated in an agile Scrum environment, participating in sprint planning, daily stand-ups, and retrospectives.
   website: http://www.brq.com
 
 - company: Magna Sistemas
   position: iOS Developer
   timeperiod: February 2016 - April 2017
-  description: Working with native applications using Swift.
+  description: Working with native applications using Swift, web services integration, external frameworks...
   website: http://www.magnasistemas.com.br
 
 # - company: Urban Summer
 #   position: iOS Developer
 #   timeperiod: March 2015 - February 2016
-#   description: Working with native and hybrid apps
+#   description: I’ve developed some new features for native and hybrid mobile Apps using Phonegap, Titanium, Objective-C, Swift, Cocoapods, Git, Sqlite, Bitbucket web services integration and external frameworks.
 #   website: https://www.linkedin.com/company/urban-summer-digital-creative/about/
 
 education:
-- degree: System Analysis and Development
+- degree: Technical Degree in Systems Analysis and Development
   timeperiod: February 2014 - June 2018
-  description: Learning algorithms, software engineer, databases, software development in FMU, Sao Paulo, Brazil
+  description: Technical Degree focused on software engineering, algorithms, databases, and application development - FMU, Sao Paulo, Brazil
   website: https://portal.fmu.br
 
-- degree: iOS Developer
+- degree: iOS Development Program (4 months)
   timeperiod: March 2013 - December 2014
-  description: Learning a lot of concepts about iOS development in Impacta, Sao Paulo, Brazil
+  description: Intensive course covering Objective-C, UIKit, and Apple development tools through hands-on projects - Impacta, Sao Paulo, Brazil
   website: https://impacta.com.br
 
 # skill level goes 0 to 100
 skills:
+- name: iOS
+  level: 95
+- name: tvOS
+  level: 85
 - name: Xcode
   level: 95
 - name: Swift
@@ -71,13 +87,21 @@ skills:
   level: 90
 - name: UIKit
   level: 95
+- name: Auto Layout
+  level: 95
 - name: git
-  level: 90
+  level: 95
 - name: MVVM
   level: 95
-- name: Unit Test
+- name: XCTest
   level: 95
-- name: CI
+- name: Testing
+  level: 95
+- name: CI/CD
+  level: 90
+- name: Sonar
+  level: 85
+- name: fastlane
   level: 90
 - name: cocoapods
   level: 95
@@ -85,10 +109,12 @@ skills:
   level: 95
 - name: Code Review
   level: 98
-- name: Agile Methodologies
+- name: Scrum
   level: 80
-- name: Framework Building
+- name: Teamwork
   level: 90
+- name: AVPlayer
+  level: 85
 
 knowledge: Also proficient in stream video, web services integration, frameworks development, fastlane, grew up bilingual (Portuguese and English)
 
