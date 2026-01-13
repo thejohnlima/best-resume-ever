@@ -16,14 +16,6 @@ birth:
   location: Brazil
 
 experience:
-- company: FreeCast Inc
-  position: iOS | tvOS Engineer
-  timeperiod: Since January 2021
-  description: Contributed to the development of FreeCast’s cross-platform streaming apps, delivering scalable and high-performance experiences for both iOS and tvOS users. Worked closely with product and backend teams to build and maintain complex features.
-              Built and maintained advanced features using SwiftUI, UIKit, and MVVM, ensuring consistency and performance across both platforms. 
-              Integrated FairPlay DRM for secure media playback, handling license acquisition and streaming key requests via backend APIs.
-  website: https://freecast.com
-
 - company: PagBank PagSeguro
   position: iOS Engineer
   timeperiod: July 2018 - January 2021
@@ -56,11 +48,11 @@ experience:
   description: Working with native applications using Swift, web services integration, external frameworks...
   website: http://www.magnasistemas.com.br
 
-# - company: Urban Summer
-#   position: iOS Developer
-#   timeperiod: March 2015 - February 2016
-#   description: I’ve developed some new features for native and hybrid mobile Apps using Phonegap, Titanium, Objective-C, Swift, Cocoapods, Git, Sqlite, Bitbucket web services integration and external frameworks.
-#   website: https://www.linkedin.com/company/urban-summer-digital-creative/about/
+- company: Urban Summer
+  position: iOS Developer
+  timeperiod: March 2015 - February 2016
+  description: I’ve developed some new features for native and hybrid mobile Apps using Phonegap, Titanium, Objective-C, Swift, Cocoapods, Git, Sqlite, Bitbucket web services integration and external frameworks.
+  website: https://www.linkedin.com/company/urban-summer-digital-creative/about/
 
 education:
 - degree: Technical Degree in Systems Analysis and Development
